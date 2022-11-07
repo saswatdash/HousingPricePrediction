@@ -3,8 +3,11 @@
 
 ## Table of Contents
 Problem Statement
+
 Technologies Used
+
 Acknowledgements
+
 Contacts
 
 ## Problem Statement
@@ -31,7 +34,7 @@ library - seaborn
 library - sklearn
 
 ## Acknowledgements
-This project is part of a case study from Upgrad for building a multiple linear regression model for the prediction of demand for shared bikes
+This project is part of a case study from Upgrad to build a regression model using regularisation in order to predict the actual value of the prospective properties.
 
 
 ## Contact
